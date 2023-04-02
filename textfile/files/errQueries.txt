@@ -1,0 +1,5 @@
+INSERT INTO user VALUES (Name,Age) ("Alfred Schmidt",34);
+INSERT INTO user VALUES (Name,Age) ("Alfreds Futterkiste",40);
+DELETE FROM user WHERE Name='Alfreds';
+ALTER TABLE user ADD City varchar(255);
+okkk

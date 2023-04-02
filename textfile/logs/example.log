@@ -1,0 +1,6 @@
+{"clientVersion":"4.2.1","code":"P2002","level":"error","meta":{"target":"user_Name_key"}}
+{"clientVersion":"4.2.1","code":"P2002","level":"error","meta":{"target":"user_Name_key"}}
+{"level":"info","message":{"Age":"22","Name":"Alfred Schmidt","id":50}}
+{"clientVersion":"4.2.1","code":"P2025","level":"error","meta":{"cause":"Record to delete does not exist."}}
+{"level":"error","message":"Invalid SQL Query"}
+{"level":"error","message":"Invalid SQL Query"}

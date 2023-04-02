@@ -1,0 +1,10 @@
+{"level":"info","message":{"created_by":"1","created_on":"2022-09-12T09:47:03.230Z","id":73,"name":"schoolcount011","updated_by":"1","updated_on":"2022-09-12T09:47:03.230Z","value":"10"}}
+{"level":"info","message":{"created_by":"1","created_on":"2022-09-12T09:47:03.280Z","id":74,"name":"class_count012","updated_by":"1","updated_on":"2022-09-12T09:47:03.280Z","value":"10"}}
+{"level":"info","message":{"count":1}}
+{"level":"info","message":{"count":1}}
+{"level":"error","message":{"count":0}}
+{"level":"error","message":{"count":0}}
+{"level":"error","message":{"count":0}}
+{"level":"error","message":{"count":0}}
+{"level":"info","message":{"count":2}}
+{"level":"error","message":"Invalid SQL Query"}

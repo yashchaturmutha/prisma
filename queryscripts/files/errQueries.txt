@@ -1,0 +1,5 @@
+UPDATE master_settings SET value=42, created_by=5 WHERE name='school_count0930291';
+UPDATE master_settings SET value=92, created_by=5, updated_by=100 WHERE name='class_count2000';
+UPDATE master_settings SET value=33 WHERE created_by=5, updated_by=1;
+DELETE FROM master_settings WHERE created_by=5, updated_by=100;
+jkkjljl

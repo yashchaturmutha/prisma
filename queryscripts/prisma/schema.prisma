@@ -1,0 +1,22 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+  previewFeatures = ["interactiveTransactions"]
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model master_settings {
+  id    Int     @id @default(autoincrement())
+  name  String?  @unique
+  value String
+  created_on DateTime
+  updated_on DateTime
+  created_by String
+  updated_by String
+}
